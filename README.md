@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @alurajuliana
-- 👀 I’m interested in aprender a programar novas linguagens
-- 🌱 I’m currently learning  a programar recentemente a linguagem javaScript e scratch
+
